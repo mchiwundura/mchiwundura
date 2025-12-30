@@ -33,6 +33,11 @@ Small arcade game about a fast-moving wind spider. Built for fun.
 - Health data science (ML for clinical applications)
 - Data structures & algorithms
 
+**Design & Multimedia Skills:**
+- Graphic design and UI/UX: Figma, Blender, GIMP
+- Video editing: DaVinci Resolve
+- 3D modeling and content creation: Blender (decent proficiency)
+
 ## Background
 
 - BPharm (Bachelor of Pharmacy)
